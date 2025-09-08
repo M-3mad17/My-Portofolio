@@ -1,4 +1,4 @@
-# Hashim Elsayed - Portfolio Website
+# MOHAMED EMAD - Portfolio Website
 
 A modern, responsive portfolio website showcasing my skills as a Full Stack Developer specializing in the MERN stack.
 
@@ -118,5 +118,6 @@ This project is open source and available under the [MIT License](LICENSE).
 - Location: Cairo, Egypt
 
 ---
+
 
 *Built with ❤️ using modern web technologies* 
